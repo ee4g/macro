@@ -40,7 +40,7 @@ import "fmt"
 // So, the following macros are applied to Entity.
 //
 // #[mypackage.Stringer()]
-// #[mypackage.SQL("my_entity_table")
+// #[mypackage.SQL("my_entity_table")]
 
 // Entity has a normal comment which is not polluted from the 
 // macro declaration above. Macros are implementation specific and therefore
